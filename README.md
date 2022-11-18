@@ -1,3 +1,3 @@
 # HTML_Practice
 
-#assignment1 -- create a static webpage using table tags in html
+1.Assignment1 -- Create a static webpage using table tags in html
