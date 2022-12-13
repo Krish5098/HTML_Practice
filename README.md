@@ -17,5 +17,6 @@ tabular format.
 
 8. Assignment8 -- HTML tags like <a> can have certain attributes. The href attribute is mandatory in the <a> tag. Additionally, it is possible to use the title attribute which specifies a text that emerges when the mouse cursor is moved above a link. This kind of text is called a tool tip. Modify the link that you created in the previous exercise so that a tool tip says "This leads you to another page." when the mouse cursor is over the link.
 
+9. Assignment9 -- It is possible to use a picture (image) as a link. Modify your page so that the picture that is on your page will also serve as a link that leads to another page.  
 
 
