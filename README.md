@@ -17,5 +17,7 @@ tabular format.
 when you click the text Go to the other page. in the first page. You need to use the <a> and </a> tags in this exercise. Inside the tag <a> you need to use a
 href attribute that specifies which page will be loaded when the link is clicked.
 
+8.Assignment8 -- HTML tags like <a> can have certain attributes. The href attribute is mandatory in the <a> tag. Additionally, it is possible to use the title attribute which specifies a text that emerges when the mouse cursor is moved above a link. This kind of text is called a tool tip. Modify the link that you created in the previous exercise so that a tool tip says "This leads you to another page." when the mouse cursor is over the link.
+
 
 
