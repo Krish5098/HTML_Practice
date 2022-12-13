@@ -1,5 +1,7 @@
 # HTML_Practice
 
+List of HTML assignments completed by ME
+
 1. Assignment1 -- Create a static webpage using table tags in html.
 
 2. Assignment2 --  Create a static web page which defines all text formatting tags of HTML in
