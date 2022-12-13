@@ -1,6 +1,6 @@
 # HTML_Practice
 
-List of HTML assignments completed by ME
+# List of HTML assignments completed by ME
 
 1. Assignment1 -- Create a static webpage using table tags in html.
 
